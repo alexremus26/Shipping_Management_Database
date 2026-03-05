@@ -2,6 +2,9 @@
 
 This project is a complete web application for managing the operations of a shipping company. The application provides an intuitive web interface for administering parcels, senders, delivery personnel, warehouses, and other logistical aspects.
 
+## ER Diagram
+<img width="1618" height="1135" alt="image" src="https://github.com/user-attachments/assets/347714de-fb87-4957-a328-476700b72605" />
+
 ## Features
 
 -   **Parcel Management:** Add, update status (e.g., In Warehouse, In Transit, Delivered), and delete parcels.
